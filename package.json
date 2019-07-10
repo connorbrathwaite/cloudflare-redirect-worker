@@ -1,0 +1,15 @@
+{
+  "name": "fullstack-challenge",
+  "description": "Fullstack challenge",
+  "author": "",
+  "version": "1.0",
+  "scripts": {
+    "preview": "workers-preview < index.js"
+  },
+  "dependencies": {
+    "workers-preview": "^1.0.6"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
